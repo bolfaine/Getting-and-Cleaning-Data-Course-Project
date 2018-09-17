@@ -8,8 +8,7 @@ activity - The type of activity performed
 
 # Measurements
 
-teste 
-teste1
+teste  teste1
 
 # Activity Labels
 
