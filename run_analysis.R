@@ -18,7 +18,7 @@ activity[,2] <- as.character(activity[,2])
 features <- read.table("UCI HAR Dataset/features.txt")
 features[,2] <- as.character(features[,2])
 
-# Extract only the data on mean and standard deviation
+# Extract data on mean and standard deviation
 
 getfeatures <- grep(".*mean.*|.*std.*", features[,2])
 getfeatures.names <- features[getfeatures,2]
