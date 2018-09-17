@@ -9,7 +9,6 @@ activity - The type of activity performed
 # Measurements
 
 tBodyAccMeanX
-
 tBodyAccMeanY
 tBodyAccMeanZ
 tBodyAccStdX
