@@ -1,10 +1,12 @@
-Code Book
+# Code Book
 This code book show the data fields in tidy.txt.
 
-Identifiers
+# Identifiers
+
 subject - The ID of the test subject
 activity - The type of activity performed
-Measurements
+
+# Measurements
 
 tBodyAccMeanX
 tBodyAccMeanY
